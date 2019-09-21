@@ -1,0 +1,18 @@
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Codigo\bin\Debug\Codigo.dll
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Codigo\bin\Debug\Codigo.pdb
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Codigo\bin\Debug\Datos.dll
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Codigo\bin\Debug\Datos.pdb
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Codigo\obj\Debug\Codigo.csprojAssemblyReference.cache
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Codigo\obj\Debug\Codigo.csproj.CoreCompileInputs.cache
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Codigo\obj\Debug\Codigo.csproj.CopyComplete
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Codigo\obj\Debug\Codigo.dll
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Codigo\obj\Debug\Codigo.pdb
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Codigo\bin\Debug\Codigo.dll
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Codigo\bin\Debug\Codigo.pdb
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Codigo\bin\Debug\Datos.dll
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Codigo\bin\Debug\Datos.pdb
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Codigo\obj\Debug\Codigo.csprojAssemblyReference.cache
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Codigo\obj\Debug\Codigo.csproj.CoreCompileInputs.cache
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Codigo\obj\Debug\Codigo.csproj.CopyComplete
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Codigo\obj\Debug\Codigo.dll
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Codigo\obj\Debug\Codigo.pdb

@@ -1,0 +1,40 @@
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\MaterialSkin.dll
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.csprojAssemblyReference.cache
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.Form1.resources
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.cache
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.csproj.CopyComplete
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.pdb
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\Codigo.dll
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\Datos.dll
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\Codigo.pdb
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\bin\Debug\Datos.pdb
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.Pestañaprincipal.resources
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.Agregar.resources
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.brpaquete.resources
+C:\Users\Edward\Desktop\proyectos\CurrierPack\Interfaz\obj\Debug\Interfaz.agregarpack.resources
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\bin\Debug\Interfaz.exe.config
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\bin\Debug\Interfaz.exe
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\bin\Debug\Interfaz.pdb
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\bin\Debug\Codigo.dll
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\bin\Debug\Datos.dll
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\bin\Debug\MaterialSkin.dll
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\bin\Debug\Codigo.pdb
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\bin\Debug\Datos.pdb
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\obj\Debug\Interfaz.csprojAssemblyReference.cache
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\obj\Debug\Interfaz.Agregar.resources
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\obj\Debug\Interfaz.agregarpack.resources
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\obj\Debug\Interfaz.Form1.resources
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\obj\Debug\Interfaz.brpaquete.resources
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\obj\Debug\Interfaz.Pestañaprincipal.resources
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.cache
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\obj\Debug\Interfaz.csproj.CopyComplete
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\obj\Debug\Interfaz.exe
+D:\Carpetas\Universidad\proyectos\Visual studio C#\CurrierPack\Interfaz\obj\Debug\Interfaz.pdb
